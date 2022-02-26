@@ -1,16 +1,11 @@
-# ui_payment
+# Flutter User Interface Payment
 
-A new Flutter project.
+Ini adalah User interface untuk payment menggunakan flutter
 
-## Getting Started
+## Tampilan User Interface
+![image_2022-02-20_14-14-50](https://user-images.githubusercontent.com/33163281/155840732-c720f643-a557-4b04-b8ec-acb197b10ed8.png)
+![image_2022-02-20_14-15-03](https://user-images.githubusercontent.com/33163281/155840734-384be68a-2c21-475e-9dfd-89b904dac4ff.png)
 
-This project is a starting point for a Flutter application.
+# Impelementasi Design UI
+[Irfan Kurniawan](https://dribbble.com/irfankurniaawan)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
